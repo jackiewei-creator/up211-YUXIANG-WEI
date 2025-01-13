@@ -1,10 +1,14 @@
 # Introduction to 221 GIS and Spatial Data Science
 This course explores spatial data science, using Python to transform urban data into meaningful insights. It covers data acquisition, analysis, and visualization to address issues like social justice and transportation. Weekly assignments encourage critical thinking and real-world applications.
 Key learning objectives include:
-	•	Understanding the role of spatial data in addressing urban and social issues
-	•	Developing frameworks to clean, organize, and prepare data for analysis
-	•	Leveraging Python programming to perform spatial analysis and create informative visualizations
-	•	Communicating insights through maps, charts, and reports that support evidence-based decision-making
+
+• Understanding the role of spatial data in addressing urban and social issues
+
+• Developing frameworks to clean, organize, and prepare data for analysis
+
+• Leveraging Python programming to perform spatial analysis and create informative visualizations
+
+• Communicating insights through maps, charts, and reports that support evidence-based decision-making
 
 By the end of the course, students will be equipped to use spatial data to drive impactful research and inform solutions to real-world urban problems.
 
