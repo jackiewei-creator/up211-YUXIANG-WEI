@@ -1,0 +1,20 @@
+Type	Detail
+1	 Regular home activities (chores, sleep) 
+1	 Work from home (paid) 
+2	 Work 
+2	 Work-related meeting / trip 
+2	 Volunteer activities (not paid) 
+3	 Attend school as a student
+4	 Attend child care 
+4	 Attend adult care
+5	 Buy goods (groceries, clothes, appliances, gas) 
+6	 Buy services (dry cleaners, banking, service a car 
+7	 Buy meals (go out for a meal, snack, carry-out) 
+8	 Other general errands (post office, library)
+9	 Recreational activities (visit parks, movies, bars
+10	 Exercise (go for a jog, walk, walk the dog, go to the gym
+11	 Visit friends or relatives
+12	 Health care visit (medical, dental, therapy) 
+13	 Religious or other community activities
+14	 Something else 
+15	 Drop off /pick up someone
